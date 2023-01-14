@@ -1,0 +1,14 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	font-family: 'cascadia code';
+	color: navy;
+	margin-left: 80px;
+}
+
+pre {
+	font-family: 'cascadia code';
+	color: rebeccapurple !important;
+}
